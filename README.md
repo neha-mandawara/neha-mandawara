@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neha-mandawara
 - 👀 I’m interested in Software and Web Development
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on best communitites all over world.
+- 💞️ I’m looking to collaborate on best communities all over world.
 - 📫 How to reach me neha.mandawara025@gmail.com
 
 <!---
